@@ -1,3 +1,6 @@
 # Classic game "Snake"
-While not ready!
-Description and link to the sandbox a little later :)
+WHILE NOT READY :)
+
+Live demo [here](http://embed.plnkr.co/vq11eRvRI87V9HdfZIhz/).
+
+Use the arrow buttons to move the snake.
